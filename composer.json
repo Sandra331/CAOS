@@ -1,0 +1,17 @@
+{
+    "name": "rory/caos",
+    "require": {
+        "twig/twig": "^3.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Caos\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "OceaneCha",
+            "email": "oceane.chabrerie.33@gmail.com"
+        }
+    ]
+}
